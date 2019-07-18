@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "imageName": "model_1.png",
+      "price": "20"
+    },
+    {
+      "imageName": "model_2.png",
+      "price": "20"
+    },
+    {
+      "imageName": "model_4.png",
+      "price": "20"
+    },
+    {
+      "imageName": "model_1.png",
+      "price": "20"
+    },
+    {
+      "imageName": "model_2.png",
+      "price": "20"
+    },
+    {
+      "imageName": "model_3.png",
+      "price": "20"
+    }
+  ],
+  "front_image": "model_1.png"
+}

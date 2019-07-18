@@ -1,0 +1,11 @@
+<!doctype html>
+{{#each products}}
+<div class="col-lg-4 col-md-6 item-entry mb-4">
+  <a href="#" class="product-item md-height bg-gray d-block">
+    <img src="{{ this.imageName }}" alt="Image" class="img-fluid">
+  </a>
+  <h2 class="item-title"><a href="#">Gray Shoe</a></h2>
+  <strong class="item-price">{{this.price}}</strong>
+</div>
+
+{{/each}}
